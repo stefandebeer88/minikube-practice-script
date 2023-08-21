@@ -2,7 +2,7 @@
 <h2>Version: 0.1</h2>
 <p>Learning Minikube script to help learn kubectl &amp; Minikube.</p>
 <h3>What these scripts do</h3>
-<0l>
+<ol>
   <li>Updates & Upgrades Ubuntu</li>
   <li>Autoremoves leftovers</li>
   <li>Checks if Minikube is installed, if not, it will be installed</li>
